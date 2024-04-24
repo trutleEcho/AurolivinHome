@@ -1,7 +1,7 @@
 import Footer from "@/components/homepage/footer";
 import ImageLoader from "@/components/imagecontaier";
 import Nav from "@/components/navbar";
-import { Card, CardBody, CardHeader, Image } from "@nextui-org/react";
+import { Card, CardBody, CardHeader, Image, Button } from "@nextui-org/react";
 import { Prisma, PrismaClient } from "@prisma/client";
 
 import { FaWhatsapp } from "react-icons/fa";
