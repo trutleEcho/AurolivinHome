@@ -43,7 +43,7 @@ export default  function Main(){
                             <ProductPage name={"Coffee table"} src={"./coffee tables/coffee tables/wooden table lamp kitchen table dining room table wooden table upcycle coffee table style dii coffee.jpg"} size={175} url={"coffee_tables"}/>
                         </div>
                         <div ref={ref4}>
-                            <ProductPage name={"Dinning tables"} src={"./planters/Planters/13 Products That Look Expensive But Are Actually Affordable AF.jpg"} size={175} url={"dinning_tables"}/>
+                            <ProductPage name={"Planters"} src={"./planters/Planters/13 Products That Look Expensive But Are Actually Affordable AF.jpg"} size={175} url={"planters"}/>
                         </div>
                         <div ref={ref5}>
                             <ProductPage name={"Side tables"} src={"./side tables/side tables/White Modern Round Side Table with Stone Top End Table.jpg"} size={175} url={"side_tables"}/>
