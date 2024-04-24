@@ -13,39 +13,39 @@ export default function Custiomization(){
         <Nav></Nav>
         <Card shadow="none" className="bg-gray-200 m-4">
         <Card className="m-8 p-8 bg-white" shadow="sm" >
-            <Image src="/custom/banner1.png"></Image>
+            <Image src="/custom/banner1.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom1.png"></Image>
+            <Image src="/custom/custom1.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom2.png"></Image>
+            <Image src="/custom/custom2.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom3.png"></Image>
+            <Image src="/custom/custom3.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom4.png"></Image>
+            <Image src="/custom/custom4.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom5.png"></Image>
+            <Image src="/custom/custom5.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/custom6.png"></Image>
+            <Image src="/custom/custom6.png" alt="image"></Image>
         </Card>
         </Card>
         <Card shadow="none" className="bg-gray-200 m-4">
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/banner2.png"></Image>
+            <Image src="/custom/banner2.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/utitled1.png"></Image>
+            <Image src="/custom/utitled1.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/utitled2.png"></Image>
+            <Image src="/custom/utitled2.png" alt="image"></Image>
         </Card>
         <Card className="m-8 p-8 bg-white" shadow="sm">
-            <Image src="/custom/utitled3.png"></Image>
+            <Image src="/custom/utitled3.png" alt="image"></Image>
         </Card>
         </Card>
         <Card className="flex justify-center items-center bg-white py-10" shadow="none"> 
