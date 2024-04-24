@@ -14,9 +14,9 @@ export default async function BlogPost({ params }) {
   )
   return (<>
   <Nav></Nav>
-    <Card key={things.id} className=" m-12  bg-white">
+    <Card  className=" m-12  bg-white">
     {data.map((things)=>(
-      <Card className="bg-white text-black font-bold">
+      <Card key={things.id} className="bg-white text-black font-bold">
         <CardHeader className=" text-4xl pt-10 px-36 uppercase ">
             {things.ProductName}
         </CardHeader>
