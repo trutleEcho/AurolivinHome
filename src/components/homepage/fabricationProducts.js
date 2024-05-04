@@ -10,19 +10,19 @@ export default function FabricationPrducts(){
             <Divider className="bg-black ml-20"/>
         <section className=" h-fit w-full p-10 grid gap-10 grid-cols-6 grid-rows-8">
             <div className="row-span-8 col-span-3">
-                <button><Link href="./custome"><Image radius="sm" src="./fabrication/staircaserailing.png"></Image></Link></button>
+                <button><Link href="./custom"><Image radius="sm" src="./fabrication/staircaserailing.png"></Image></Link></button>
             </div>
             <div className="row-span-3 col-span-1">
-                <button><Link href="./custome"><Image radius="sm" src="./fabrication/metalFacade.png"></Image></Link></button>
+                <button><Link href="./custom"><Image radius="sm" src="./fabrication/metalFacade.png"></Image></Link></button>
             </div>
             <div className="row-span-3 col-span-1">
-                <button><Link href="./custome"><Image radius="sm" src="./fabrication/railing.png"></Image></Link></button>
+                <button><Link href="./custom"><Image radius="sm" src="./fabrication/railing.png"></Image></Link></button>
             </div>
             <div className="row-span-3 col-span-1">
-                <button><Link href="./custome"><Image radius="sm" src="./fabrication/roomPartition.png"></Image></Link></button>
+                <button><Link href="./custom"><Image radius="sm" src="./fabrication/roomPartition.png"></Image></Link></button>
             </div>
             <div className="row-span-6 col-span-3">
-                <button><Link href="./custome"><Image radius="sm" src="./fabrication/metalCeiling.png"></Image></Link></button>
+                <button><Link href="./custom"><Image radius="sm" src="./fabrication/metalCeiling.png"></Image></Link></button>
             </div>   
 
 
